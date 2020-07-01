@@ -1,5 +1,7 @@
+// you must replace the path to the song you wish to play
+
 import React, { Component } from "react";
-import soundfile from "../Scooter.mp3";
+import soundfile from "ADD YOUR OWN SONG HERE";
 import Sound from "react-sound";
 
 class Hyperdrive extends Component {
